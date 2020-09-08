@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Python       1 hr 51 mins    ███████████████▒░░░░░░░░░   61.48 % 
+HTML         54 mins         ███████▓░░░░░░░░░░░░░░░░░   30.09 % 
+CSS          6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+Go           3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+JavaScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 ```
 <!--END_SECTION:waka-->
