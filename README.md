@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Python     3 hrs 36 mins   ████████████████████░░░░░   80.47 % 
-TeX        20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
-RPMSpec    14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-Markdown   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-Other      5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+Python     4 hrs 58 mins   ████████████████████░░░░░   79.97 % 
+TeX        43 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+RPMSpec    14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+Markdown   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Other      5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
 ```
 <!--END_SECTION:waka-->
