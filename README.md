@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Python   54 mins         ████████████████████████░   95.41 % 
-XML      2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+Python       54 mins         ███████████████████▒░░░░░   77.11 % 
+JavaScript   13 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.18 % 
+XML          2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
 ```
 <!--END_SECTION:waka-->
