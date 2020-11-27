@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Python   6 hrs 18 mins   ████████████████████▓░░░░   82.34 % 
-YAML     45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-Other    23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-JSON     11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+Python   4 hrs 33 mins   ████████████████████▒░░░░   80.88 % 
+YAML     42 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+JSON     11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Other    10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
 ```
 <!--END_SECTION:waka-->
