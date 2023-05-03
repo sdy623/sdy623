@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
+
+[![My Skills](https://skillicons.dev/icons?i=python,js,nodejs,ts,cs,html,linux,mysql,docker,ps,ai,pr,ae,au)](https://skillicons.dev)
