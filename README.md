@@ -22,4 +22,4 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,nodejs,ts,cs,html,linux,hdl,mysql,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,js,nodejs,ts,vue,cs,cpp,html,linux,mysql,docker)](https://skillicons.dev)
