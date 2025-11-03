@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 ![xxx's Github stats](https://github-readme-stats.vercel.app/api?username=sdy623&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
